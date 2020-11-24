@@ -21,7 +21,7 @@ Dataset taken from Kaggle did not need much cleaing. Only removed trailing zeros
 ## EDA
 Examining distributions of the data, it was interesting to see the correlations between home attributes and price. Here are some hightlights.
 
-![](EDA%20images/corr1.jpg=250x250)
+![](EDA%20images/corr1.jpg =250x250)
 
 ## Building the Models
 
