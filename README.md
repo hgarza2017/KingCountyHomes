@@ -16,8 +16,12 @@
 This is my second data science project following the same youtube walkthrough. Huge shout out to Ken Jee for simplifying the data science process as well as providing a vast amount of insight on the projects Data Scientists work on: https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 
 ## Cleaning the Data
+Dataset taken from Kaggle did not need much cleaing. Only removed trailing zeros from some columns to increase legibility.
 
 ## EDA
+Examining distributions of the data, it was interesting to see the correlations between home attributes and price. Here are some hightlights.
+
+![alt text] (corr1.jpeg)
 
 ## Building the Models
 
