@@ -46,7 +46,4 @@ XGBoost performed the best of the four.
 # Productionization using Flask
 I finally built an API using Flask hosted on a local server. The API takes in a request with a list of home attributes and returns an estimated price for that home.
 
-Atrributes:
-* Bedrooms * Bathrooms * Living sq. ft. * Lot sq. ft.
-
 
